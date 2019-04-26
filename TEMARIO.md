@@ -28,7 +28,7 @@
   * Cookies
 
 ## Clase 2.- Conceptos avanzados del lenguaje
-* Magic Methods
+* Magic Methods y Magic Constants
 * Generadores
 * Namespaces
 * Traits
