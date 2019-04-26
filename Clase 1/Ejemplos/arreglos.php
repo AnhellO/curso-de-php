@@ -31,7 +31,7 @@ $usuarios = array(
 
 // Actualizando los valores en los arreglos
 $marcas_de_autos[0] = 'Mercedes Benz';
-$marcas_de_autos[4] = 'Ferrari';
+$marcas_de_autos[3] = 'Ferrari';
 
 $autos['Mazda'] = 'rojo';
 
@@ -48,6 +48,6 @@ var_dump($marcas_de_autos);
 var_dump($autos);
 var_dump($usuarios);
 
-// Declarando arreglas utilizando los operadores []
+// Declarando arreglos utilizando los operadores []
 $otro_arreglo = ['mas', 'arreglos', true, 10];
 print_r($otro_arreglo);
