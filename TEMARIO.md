@@ -20,7 +20,7 @@
   * Declaraciones de tipo escalar y de retorno
   * `include` y `require` en PHP
   * `var_dump`, `var_export`, `print_r` y `die`
-  * Funciones nativas para arreglos y Strings
+  * Funciones nativas para arreglos y strings
   * Clases, interfaces y objetos
   * Manejo de excepciones y errores
   * Manejo de archivos
