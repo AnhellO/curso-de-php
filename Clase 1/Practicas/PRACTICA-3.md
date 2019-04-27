@@ -12,6 +12,6 @@ Crea otro script en `.php` que incluya el arreglo del script de `estados.php`, y
 * Que recorra todo el arreglo
 * Que evalúe el tamaño de la superficie del estado de la siguiente manera:
   * Si la superficie del estado es menor a <code>10,000km<sup>2</sup></code> imprime: `Muy poca superficie territorial`
-  * Si la superficie del estado es mayor a <code>10,000km<sup>2</sup></code> y menor a <code>50,000km<sup>2</sup></code> imprime: `Poca superficie territorial`
-  * Si la superficie del estado es mayor a <code>50,000km<sup>2</sup></code> y menor a <code>100,000km<sup>2</sup></code> imprime: `Superficie territorial promedio`
-  * Si la superficie del estado es mayor a <code>100,000km<sup>2</sup></code> imprime: `Gran superficie territorial`
+  * Si la superficie del estado es mayor o igual a <code>10,000km<sup>2</sup></code> y menor a <code>50,000km<sup>2</sup></code> imprime: `Poca superficie territorial`
+  * Si la superficie del estado es mayor o igual a <code>50,000km<sup>2</sup></code> y menor a <code>100,000km<sup>2</sup></code> imprime: `Superficie territorial promedio`
+  * Si la superficie del estado es mayor o igual a <code>100,000km<sup>2</sup></code> imprime: `Gran superficie territorial`
