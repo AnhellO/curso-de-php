@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Forma de Prueba</title>
+</head>
+<body>
+    <h2>Llame Ya!</h2>
+    <p>Llena los siguientes campos</p>
+    <form action="formas.php" method="POST">
+        <p>
+            <label for="inputName">Nombre:<sup>*</sup></label>
+            <input type="text" name="nombre" id="inputName">
+        </p>
+        <p>
+            <label for="inputEmail">Email:<sup>*</sup></label>
+            <input type="text" name="email" id="inputEmail">
+        </p>
+        <p>
+            <label for="inputSubject">Asunto:</label>
+            <input type="text" name="asunto" id="inputSubject">
+        </p>
+        <p>
+            <label for="inputComment">Mensaje:<sup>*</sup></label>
+            <textarea name="mensaje" id="inputComment" rows="5" cols="30"></textarea>
+        </p>
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+    </form>
+</body>
+</html>
