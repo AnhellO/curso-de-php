@@ -16,9 +16,9 @@
   * Operadores básicos y especiales
   * Bloques condicionales `if` y `switch`
   * Ciclos `while`, `do-while`, `for` y `foreach`
+  * `include` y `require` en PHP
   * Funciones propias y anónimas
   * Declaraciones de tipo escalar y de retorno
-  * `include` y `require` en PHP
   * `var_dump`, `var_export`, `print_r` y `die`
   * Funciones nativas para arreglos y strings
   * Clases, interfaces y objetos
