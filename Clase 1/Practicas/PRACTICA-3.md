@@ -2,7 +2,7 @@
 
 ## Alcance
 
-Para todo los temas de estructuras de control: bloques condicionales, ciclos, include y require
+Para todos los temas de estructuras de control: bloques condicionales, ciclos, include y require
 
 ## Especificaciones
 
