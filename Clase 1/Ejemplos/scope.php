@@ -17,7 +17,7 @@ function testScopeGlobal() {
 testScopeGlobal();
 echo "{$var1}\n";
 echo "{$var2}\n";
-// Aquí truen :O!
+// Aquí truena :O!
 echo "{$var3}\n";
 
 // Probando scope estático
@@ -29,8 +29,8 @@ function testScopeEstatico() {
 }
 
 // var4!
-echo testScopeEstatico();
+testScopeEstatico();
 // var4!!
-echo testScopeEstatico();
+testScopeEstatico();
 // var4!!!
-echo testScopeEstatico();
+testScopeEstatico();

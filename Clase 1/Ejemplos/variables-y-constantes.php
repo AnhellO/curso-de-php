@@ -10,6 +10,7 @@ define("CONSTANTE2", 3.1416);
 
 echo $string . "\n";
 echo $numero . "\n";
+echo ($numero +  '10') . "\n";
 echo CONSTANTE1 . "\n";
 echo CONSTANTE2 . "\n";
 
@@ -23,7 +24,7 @@ $var5 = 'Hola Mundo';
 $var6 = "Hola Mundo";
 $var7 = 'Hola\'nt Mundo';
 
-$var8 = 123;
+$var8 = 123.2;
 $var9 = 10.2e3;
 $var10 = 4E-10;
 
