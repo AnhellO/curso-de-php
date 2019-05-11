@@ -20,4 +20,4 @@ Crea un script en `.php` que lea un nombre completo desde línea de comandos y l
 
 El script deberá de guardar los valores resultantes de cada una de las operaciones anteriores en un arreglo, y deberá imprimirlo a consola de la siguiente manera:
 * Imprimir el arreglo completo después de insertar todos los resultados de las operaciones con el string
-* Imprimir una versión del arreglo después de comparar insensitivamente todos sus elementos
+* Imprimir una versión unique del arreglo después de comparar insensitivamente todos sus elementos
