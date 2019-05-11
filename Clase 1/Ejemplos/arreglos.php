@@ -1,5 +1,7 @@
 <?php
 
+echo "<h4>Impresión desde " . __FILE__ . "</h4>";
+
 // Arreglo indexado
 $marcas_de_autos = array('Mazda', 'BMW', 'Audi');
 
