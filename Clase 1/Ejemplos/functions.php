@@ -35,17 +35,20 @@ $miFuncion = 'pruebaReplace';
 echo "Funciones variables: " . $miFuncion($string) . "<br>\n";
 
 $arreglo = ['mi', 'arreglo', 'de', 'strings'];
-echo "<pre>";
-print_r(array_map(function ($string) {
+$miClosure = function ($string) {
 	if (strlen($string) > 5) {
 		return str_ireplace(['a', 'e', 'i', 'o', 'u'], '_', strtoupper($string));
 	}
 
 	return $string;
-}, $arreglo));
+};
+
+echo get_class($miClosure) . "\n";
+echo "<pre>";
+print_r(array_map($miClosure, $arreglo));
 echo "</pre>";
 
-$arreglo = ['mi', 'arreglo', 'de', 'strings', 'STRINGS'];
+$arreglo = ['mi', 'arreglo', 'de', 'strings', 'strings'];
 echo "<pre>";
 print_r(array_unique($arreglo));
 echo "</pre>";
