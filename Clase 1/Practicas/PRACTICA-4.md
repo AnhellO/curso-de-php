@@ -7,8 +7,8 @@ Para todos los temas de funciones.
 ## Especificaciones
 
 Crea un script en `.php` que lea un nombre completo desde línea de comandos y lleve a cabo las siguientes operaciones con él:
-* Convertirlo a un slug válido
-  * Ejemplo: `Luisito Pérez` a `luisito-perez`
+* Convertirlo a un arreglo
+  * Ejemplo: `Luisito Pérez` a `['Luisito', 'Pérez']`
 * Convertirlo a mayúsculas
   * Ejemplo: `Luisito Pérez` a `LUISITO PÉREZ`
 * Convertirlo a minúsculas
