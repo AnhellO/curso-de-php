@@ -1,3 +1,4 @@
+<?php $var = "Haha\n"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,6 +13,7 @@
         <li><strong>Email:</strong> <?php echo $_POST['email']?></li>
         <li><strong>Asunto:</strong> <?php echo $_POST['asunto']?></li>
         <li><strong>Mensaje:</strong> <?php echo $_POST['mensaje']?></li>
+        <li><?php echo $var; ?></li>
     </ul>
 </body>
 </html>
