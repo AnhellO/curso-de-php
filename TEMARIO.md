@@ -58,18 +58,19 @@
 * PHP-FIG
 * Estándares PSR
 * Paquetes importantes
-  * `phpunit`
-  * `PHP-CS-Fixer`
-  * `guzzle`
-  * `mockery`
-  * `monolog`
-  * `PHPMailer`
-  * `swiftmailer`
-  * `carbon`
-  * `phpdotenv`
-  * `faker`
-  * Componentes Symfony y CakePHP
-* The PHP League
+  * [`phpunit:`](https://phpunit.de/) Unit testing en PHP
+  * [`PHP-CS-Fixer:`](https://github.com/FriendsOfPHP/PHP-CS-Fixer) Syntax fixer para PHP acordé a PSR y otros estándares
+  * [`guzzle:`](http://docs.guzzlephp.org/en/stable/index.html) Cliente HTTP
+  * [`mockery:`](http://docs.mockery.io/en/latest/) Unit testing con mocks y stubs
+  * [`monolog:`](https://github.com/Seldaek/monolog) Manejo de Logs
+  * [`PHPMailer:`](https://github.com/PHPMailer/PHPMailer) Manejo de emails desde PHP
+  * [`swiftmailer:`](https://swiftmailer.symfony.com/) Manejo de emails desde PHP
+  * [`carbon:`](https://carbon.nesbot.com/docs/) Manejo de fechas (DateTime con esteroides)
+  * [`phpdotenv:`](https://github.com/vlucas/phpdotenv) Manejo de variables en base al ambiente de desarrollo
+  * [`faker:`](https://github.com/fzaninotto/Faker) Genera datos ficticios
+  * [`spatie`](https://github.com/spatie): Múltiples paquetes útiles
+  * Componentes [Symfony](https://github.com/symfony) y CakePHP
+* [The PHP League](https://thephpleague.com/)
 
 ## Clase 4.- CMSs y Frameworks
 * Frameworks
