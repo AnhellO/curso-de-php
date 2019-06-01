@@ -5,6 +5,7 @@
         }
     },
     "require": {
-        "fzaninotto/faker": "^1.8"
+        "fzaninotto/faker": "^1.8",
+        "guzzlehttp/guzzle": "^6.3"
     }
 }
